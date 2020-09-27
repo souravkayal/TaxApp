@@ -1,10 +1,10 @@
-# TaxApp
-Sample Tax application for real state tax calculation. 
+# TaxApp </br>
+Sample Tax application for real state tax calculation.  </br>
 
 
-Assumption : 
-1. Bulk upload feature is not implemented due to time constrant 
-2. All scenerio in Unit test has not covered. Few example are given to cover the basic requirement.
+Assumption :  </br>
+1. Bulk upload feature is not implemented due to time constrant  </br>
+2. All scenerio in Unit test has not covered. Few example are given to cover the basic requirement. </br>
 
 
 Deployment : The app is deployed in my personal dev ops portl 
