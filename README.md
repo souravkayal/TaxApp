@@ -13,7 +13,6 @@ CD pipeline - https://dev.azure.com/azlearnsourav2020/TaxApp/_release?_a=release
 Swagger url - https://mytaxapp.azurewebsites.net/swagger/index.html
 
 
-Sample CURL request.
+Sample CURL request. </br>
 curl -X POST "https://mytaxapp.azurewebsites.net/api/Tax/GetTax" -H "accept: */*" -H "Content-Type: application/json" -d "{\"municipalityName\":\"Copenhagen\",\"date\":\"2016-01-01\"}"
-
 
