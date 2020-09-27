@@ -7,11 +7,11 @@ Assumption :  </br>
 2. All scenerio in Unit test has not covered. Few example are given to cover the basic requirement. </br>
 
 
-Deployment : The app is deployed in my personal dev ops portl 
-CI pipeline - https://dev.azure.com/azlearnsourav2020/TaxApp/_build
-CD pipeline - https://dev.azure.com/azlearnsourav2020/TaxApp/_release?_a=releases&view=mine&definitionId=1
-Swagger url - https://mytaxapp.azurewebsites.net/swagger/index.html
-
+Deployment : The app is deployed in my personal dev ops portl  </br>
+CI pipeline - https://dev.azure.com/azlearnsourav2020/TaxApp/_build </br>
+CD pipeline - https://dev.azure.com/azlearnsourav2020/TaxApp/_release?_a=releases&view=mine&definitionId=1  </br>
+Swagger url - https://mytaxapp.azurewebsites.net/swagger/index.html  </br>
+ 
 
 Sample CURL request. </br>
 curl -X POST "https://mytaxapp.azurewebsites.net/api/Tax/GetTax" -H "accept: */*" -H "Content-Type: application/json" -d "{\"municipalityName\":\"Copenhagen\",\"date\":\"2016-01-01\"}"
